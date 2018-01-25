@@ -1,4 +1,4 @@
-This file currently implements the Extract part of the project 
+This file currently implements the Extract part of the ELT project 
 
 Here are few things to note 
 
@@ -16,4 +16,3 @@ PROJECT 3
 2.) Use the previous code to load data into memory
 
 
-de09520b-585b-4b75-bc17-ada5d1100b8b
